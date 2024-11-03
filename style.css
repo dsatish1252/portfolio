@@ -405,6 +405,7 @@ nav .fa-solid{
 
     #header{
         background-image: url(images/dany_about.jpg);
+        background-repeat: no-repeat;
     }
 
     .header-text{
